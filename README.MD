@@ -1,6 +1,6 @@
 <div align="center">
   <a href="#">
-      <img src=".github/assets/badge.png" width="200" />
+      <img src="https://raw.githubusercontent.com/felipeAguiarCode/react-native-bat-pass-generator/main/.github/assets/badge.png" width="200" />
   </a>
 
   <!-- project name -->
@@ -47,7 +47,7 @@
 
 <div align="center">
   <a href="#">
-      <img src=".github/assets/preview.png" width="200" alt="preview" />
+      <img src="https://github.com/felipeAguiarCode/react-native-bat-pass-generator/raw/main/.github/assets/preview.png" width="200" alt="preview" />
   </a>
 </div>
 
