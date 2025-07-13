@@ -2,8 +2,14 @@
   "name": "bat-pass-app",
   "version": "1.0.0",
   "main": "index.ts",
+  "description": "React Native App created as an exercise - DIO - Bat Password Generator.",
+  "author": {
+    "name": "Jeferson Alves (Jeff Alves)"
+  },
   "scripts": {
     "start": "expo start",
+    "start:dev": "npx expo start --tunnel",
+    "start:dev2": "REACT_NATIVE_PACKAGER_HOSTNAME=172.22.249.221 npx expo start",
     "android": "expo start --android",
     "ios": "expo start --ios",
     "web": "expo start --web"
@@ -12,7 +18,8 @@
     "expo": "~53.0.17",
     "expo-status-bar": "~2.2.3",
     "react": "19.0.0",
-    "react-native": "0.79.5"
+    "react-native": "0.79.5",
+    "expo-clipboard": "~7.1.5"
   },
   "devDependencies": {
     "@babel/core": "^7.25.2",
