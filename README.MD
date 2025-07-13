@@ -40,15 +40,6 @@
     </a>
     <br />
     <br />
-    <a 
-      href="https://github.com/felipeAguiarCode/react-native-bat-pass-generator/issues">
-      Report Bug
-    </a>
-    ·
-    <a 
-      href="https://github.com/felipeAguiarCode/react-native-bat-pass-generator/issues/new">
-      Request Feature
-    </a>
   </p>
 </div>
 
@@ -95,6 +86,5 @@ Runs the app in the development mode.<br/>
 
 ## Autor
 
-| [<img src="https://avatars3.githubusercontent.com/u/37452836?s=96&v=4"><br><sub>Felipe Aguiar</sub>](https://github.com/felipeAguiarCode) |
-| :---------------------------------------------------------------------------------------------------------------------------------------: |
-|                                             [Linkedin](www.linkedin.com/in/felipe-aguiar-exe)                                             |
+- Jeferson Alves
+- Exercise proposed by: Felipe Aguiar (https://github.com/felipeAguiarCode)
